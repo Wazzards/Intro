@@ -6,7 +6,7 @@ addon based on our [Template] repository.
 
 <br/>
 
-## Prerequisites
+## 1. Prerequisites
 
 -   You know how to use git.
 
@@ -17,9 +17,7 @@ addon based on our [Template] repository.
 
 <br/>
 
-## Steps
-
-### Repository
+## 2. Repository
 
 1.  Open our [Template] repository in a new tab.
 
@@ -28,7 +26,9 @@ addon based on our [Template] repository.
 
 3.  Clone the repository to your system.
 
-### Customize
+<br/>
+
+## 3. Customize
 
 1.  Choose your preferred [licenses][Licenses].
 
@@ -38,7 +38,9 @@ addon based on our [Template] repository.
 
 4.  Update the information in `package.xml`
 
-### Integrate
+<br/>
+
+## 4. Integrate
 
 Link your local addon folder with FreeCAD.
 

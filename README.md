@@ -1,12 +1,12 @@
 
 # <small> Intro to FreeCAD addon <br/> development for Wizards </small>
 
-You wanna write some sick addons for your favorite C.A.D. software?  
+Wanna make some sick addons for your CAD software?  
 
 Well guess what, it's about to get messy, like 20 years  
 worth of legacy code messy and that's just the start.
 
-Scared yet? Well if not then let's start on your journey.
+Scared yet? Well if not, then let's start on your journey.
 
 <br/>
 
@@ -37,15 +37,18 @@ broke any legs on the way - have a working addon.
 
 ## Pages
 
-1. How to [Structure] your addon.
+1. [What does an **Addon** event do?][Addon]
 
-2. How to set up the [Template].
+1. [How to **Structure** your addon.][Structure]
 
-3. How to customize the [Manifest].
+1. [How to set up the **Template**.][Template]
+
+1. [How to customize the **Manifest**.][Manifest]
 
 <br/>
 
 [Structure]: ./Pages/Structure.md 
 [Template]: ./Pages/Template.md
 [Manifest]: ./Pages/Manifest.md
+[Addon]: ./Pages/Addon.md
 

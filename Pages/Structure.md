@@ -70,6 +70,8 @@ while developing, like the Python stubs package for FreeCAD.
 The overview of your repository, in our template this is  
 only for contributors, not for the users of your addon.
 
+<br/>
+
 ## `Source`
 Extra folder to make it easy for people  
 to know which files are the source files.

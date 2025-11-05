@@ -6,6 +6,8 @@ about your addon, where to find specific resources,
 what to link and what to display when presenting  
 your addon in for example - the addon manager.
 
+The more information you can specify, the better!
+
 <br/>
 
 ## 1. Format
