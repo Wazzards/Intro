@@ -1,26 +1,47 @@
 
-# Intro to FreeCAD <br/> addon development.
+# <small> Intro to FreeCAD addon <br/> development for Wizards </small>
 
-Writing addons can be seem like a big mess - that's because it is. 
+You wanna write some sick addons for your favorite C.A.D. software?  
 
-While this may change in the future, currently you should be  
-ready to dig through FreeCAD's codebase to find your answers  
-or hunt for someone - if there still is - that knows the specific  
-part of the codebase you have questions for.
+Well guess what, it's about to get messy, like 20 years  
+worth of legacy code messy and that's just the start.
 
-This guide covers a general introduction to the development  
-process of FreeCAD addons and is split in to various pages  
-you can skip to as you so please.
+Scared yet? Well if not then let's start on your journey.
+
+<br/>
+
+## Audience
+
+This guide is intent for people that want to get their  
+feet  wet after being told something that made them  
+say `Guess I'll do it myself then`.
+
+It might also be of interest to people that hadn't heard   
+about the sunken cost fallacy before starting their project.
+
+<br/>
+
+## Journey
+
+You are a free person, go along with the path set  
+forth or jump to whatever topic catches your eye.
+
+This intro is structured as a linear path  
+you can follow page by page at your pace.
+
+At the end you should have a basic understanding  
+of how this stuff works and hopefully - if no one  
+broke any legs on the way - have a working addon.
 
 <br/>
 
 ## Pages
 
--   How to [Structure] your addon.
+1. How to [Structure] your addon.
 
--   How to set up the [Template].
+2. How to set up the [Template].
 
--   How to customize the [Manifest].
+3. How to customize the [Manifest].
 
 <br/>
 

@@ -8,7 +8,7 @@ your addon in for example - the addon manager.
 
 <br/>
 
-## Format
+## 1. Format
 
 The manifest is unfortunately an XML file so be careful  
 with what you put where, you cannot for example move  
@@ -22,7 +22,7 @@ does not offer any autocompletion or type hinting.
 
 <br/>
 
-## Fields
+## 2. Fields
 
 To give you a first impression of what data is included,  
 here is a summary of the fields that are available for use.
