@@ -13,6 +13,9 @@ worry about it yet, we will cover the setup later.
 
 ## Overview
 
+We have structured our template to use the latest  
+features of FreeCAD while also keeping things tidy.
+
 ```
 <Repository>
 │
@@ -35,9 +38,6 @@ worry about it yet, we will cover the setup later.
 ├─ package.xml
 └─ README.md
 ```
-
-We have structured our template to use the latest  
-features of FreeCAD while also keeping things tidy.
 
 <br/>
 

@@ -37,7 +37,7 @@ broke any legs on the way - have a working addon.
 
 ## Pages
 
-1. [What does an **Addon** event do?][Addon]
+1. [What does an **Addon** even do?][Addon]
 
 1. [How to **Structure** your addon.][Structure]
 

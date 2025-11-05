@@ -7,7 +7,7 @@ or at least until I get bored of it?
 
 Well, they allow you to mess up FreeCAD in whatever way  
 you can imagine and type out into code or if you are of the  
-practical sort, help you improve your workflows synergy.
+practical sort, help you improve your workflow's synergy.
 
 <br/>
 
@@ -16,7 +16,7 @@ practical sort, help you improve your workflows synergy.
 Here are few of the things you can do with addons.
 
 -   Create a **Preference Pack** to show everyone  
-    how FreeCAD should actually look like.
+    how FreeCAD should have actually looked like.
 
     <img 
         width = '300' 
