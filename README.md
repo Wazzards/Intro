@@ -1,5 +1,5 @@
 
-# <small> Intro to FreeCAD addon <br/> development for Wizards </small>
+# <small> Developing FreeCAD Addons </small>
 
 Wanna make some sick addons for your CAD software?  
 
