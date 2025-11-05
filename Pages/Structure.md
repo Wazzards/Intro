@@ -9,6 +9,8 @@ You can find a bare bones example of the structure
 described below in our [Template] repository, don't  
 worry about it yet, we will cover the setup later.
 
+<br/>
+
 ## Overview
 
 ```
@@ -36,6 +38,8 @@ worry about it yet, we will cover the setup later.
 
 We have structured our template to use the latest  
 features of FreeCAD while also keeping things tidy.
+
+<br/>
 
 ### `<Repository>`
 This is the root of your repository.
