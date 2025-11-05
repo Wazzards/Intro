@@ -1,4 +1,17 @@
 
+<table align = left>
+<tr>
+<td>
+
+[« How to use the **Template** repo.][Page-Template]
+
+</td>
+</tr>
+</table>
+
+<br/>
+<br/>
+
 # 4. Manifest
 
 The package manifest is a config that tells FreeCAD  
@@ -36,3 +49,4 @@ here is a summary of the fields that are available for use.
 
 <br/>
 
+[Page-Template]: ./Template.md

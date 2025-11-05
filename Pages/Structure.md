@@ -1,4 +1,27 @@
 
+<table align = 'left' >
+<tr>
+<td>
+
+[« What does an **Addon** even do?][Page-Addon]
+
+</td>
+</tr>
+</table>
+
+<table align = 'right' >
+<tr>
+<td>
+
+[How to use the **Template** repo »][Page-Template]
+
+</td>
+</tr>
+</table>
+
+<br/>
+<br/>
+
 # 2. Structure
 
 In the following we will cover a modern way of  
@@ -101,6 +124,9 @@ Media, Documents, etc. that aren't packaged with the
 addon like a cheatsheet PDF, header images or the like.
 
 <br/>
+
+[Page-Template]: ./Template.md
+[Page-Addon]: ./Addon.md
 
 [Template]: https://github.com/Wazzards/Template
 [UV]: https://docs.astral.sh/uv/

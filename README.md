@@ -37,18 +37,18 @@ broke any legs on the way - have a working addon.
 
 ## 📖 Pages
 
-1. [What does an **Addon** even do?][Addon]
+1. [What does an **Addon** even do?][Page-Addon]
 
-1. [How to **Structure** your addon.][Structure]
+1. [How to **Structure** your addon.][Page-Structure]
 
-1. [How to use the **Template** repo.][Template]
+1. [How to use the **Template** repo.][Page-Template]
 
-1. [How to fill in the **Manifest** file.][Manifest]
+1. [How to fill in the **Manifest** file.][Page-Manifest]
 
 <br/>
 
-[Structure]: ./Pages/Structure.md 
-[Template]: ./Pages/Template.md
-[Manifest]: ./Pages/Manifest.md
-[Addon]: ./Pages/Addon.md
+[Page-Structure]: ./Pages/Structure.md
+[Page-Template]: ./Pages/Template.md
+[Page-Manifest]: ./Pages/Manifest.md
+[Page-Addon]: ./Pages/Addon.md
 

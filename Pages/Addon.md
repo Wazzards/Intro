@@ -1,3 +1,25 @@
+<table align = 'left' >
+<tr>
+<td>
+
+[« Overview][Page-Overview]
+
+</td>
+</tr>
+</table>
+
+<table align = 'right' >
+<tr>
+<td>
+
+[How to **Structure** your addon. »][Page-Structure]
+
+</td>
+</tr>
+</table>
+
+<br/>
+<br/>
 
 # 1. Addon
 
@@ -86,5 +108,9 @@ likely take a Short While™ until it's in a usable state.
 Work in progress,  
 To be continued ..
 
+<br/>
+
+[Page-Structure]: ./Structure.md
+[Page-Overview]: ..
 
 [Package]: https://pypi.org/project/freecad-stubs

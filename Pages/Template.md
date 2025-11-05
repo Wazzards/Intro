@@ -1,4 +1,27 @@
 
+<table align = left>
+<tr>
+<td>
+
+[« How to **Structure** your addon.][Page-Structure]
+
+</td>
+</tr>
+</table>
+
+<table align = right>
+<tr>
+<td>
+
+[How to fill in the **Manifest** file »][Page-Manifest]
+
+</td>
+</tr>
+</table>
+
+<br/>
+<br/>
+
 # 3. Template
 
 In the following we will create a new  
@@ -45,6 +68,9 @@ addon based on our [Template] repository.
 Link your local addon folder with FreeCAD.
 
 <br/>
+
+[Page-Structure]: ./Structure.md
+[Page-Manifest]: ./Manifest.md
 
 [Template]: https://github.com/Wazzards/Template
 [Licenses]: https://choosealicense.com/appendix
