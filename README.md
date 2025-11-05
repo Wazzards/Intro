@@ -26,8 +26,8 @@ about the sunken cost fallacy before starting their project.
 You are a free person, go along with the path set  
 forth or jump to whatever topic catches your eye.
 
-This intro is structured as a linear path  
-you can follow page by page at your pace.
+This intro is structured as a linear path you  
+can follow page by page at your own pace.
 
 At the end you should have a basic understanding  
 of how this stuff works and hopefully - if no one  
