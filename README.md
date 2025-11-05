@@ -12,12 +12,14 @@ Scared yet? Well if not, then let's start on your journey.
 
 ## 🪖 Audience
 
-This guide is intent for people that want to get their  
-feet  wet after being told something that made them  
-say `Guess I'll do it myself then`.
+This guide is intent for the untainted souls that have  
+been told `You should make an addon for this`.
 
 It might also be of interest to people that hadn't heard   
 about the sunken cost fallacy before starting their project.
+
+Everyone is welcome, except people on mobile devices.  
+This is a desktop first guide, you have been warned.
 
 <br/>
 
