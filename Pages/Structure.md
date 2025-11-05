@@ -34,7 +34,7 @@ worry about it yet, we will cover the setup later.
 
 <br/>
 
-## 📑 Overview
+## 📂 Overview
 
 We have structured our template to use the latest  
 features of FreeCAD while also keeping things tidy.
@@ -64,28 +64,39 @@ features of FreeCAD while also keeping things tidy.
 
 <br/>
 
-## `<Repository>`
-This is the root of your repository.
+## 📑 Files & Folders
 
-### `.editorconfig`
+Below you can find descriptions for each  
+of the items listed in the above file tree.
+
+<details>
+<summary>
+    
+### `<Repository>`
+
+This is the root of your repository.
+    
+</summary>
+
+#### `.editorconfig`
 Config that tells editors to use the same line endings,  
 charset, indentation, etc. to keep things consistent.
 
-### `.gitignore`
+#### `.gitignore`
 Config that prevents certain files from being committed to  
 git, like Python cache or files generated from editing UIs.
 
-### `LICENSE-CODE`
+#### `LICENSE-CODE`
 This is the license file for the code of your project.
 
-### `LICENSE-ICON`
+#### `LICENSE-ICON`
 This is the license file for the icons of your project.
 
-### `package.xml`
+#### `package.xml`
 Config that tells FreeCAD about your addon, for example  
 where it can find your files, your dependencies, links, etc.
 
-### `pyproject.toml`
+#### `pyproject.toml`
 Config to tell tools like [`uv`][UV] what dependencies we need  
 while developing, like the Python stubs package for FreeCAD.
 
@@ -93,33 +104,40 @@ while developing, like the Python stubs package for FreeCAD.
 The overview of your repository, in our template this is  
 only for contributors, not for the users of your addon.
 
-<br/>
+</details>
 
-## `Source`
+<details>
+<summary>
+    
+### `Source`
+
 Extra folder to make it easy for people  
 to know which files are the source files.
 
-### `freecad`
+</summary>
+
+#### `freecad`
 Folder with a set name needed to load your addon.
 
-### `<Addon>`
+#### `<Addon>`
 Folder with the name of your addon, for example `MagicTools`
 
-### `<Resources>`
+#### `<Resources>`
 Here you want to store the assets you package with  
 your addon like icons, locales or data files you load.
 
-### `__init__.py`
+#### `__init__.py`
 This is the entry point to your code that is called when  
 running FreeCAD from either the terminal or with a GUI.
 
-### `init_gui.py`
+#### `init_gui.py`
 This is the entrypoint to your code that is called  
 only when FreeCAD is ran as a GUI application.
 
-<br/>
+</details>
 
-## `Assets`
+### `Assets`
+    
 Media, Documents, etc. that aren't packaged with the  
 addon like a cheatsheet PDF, header images or the like.
 
