@@ -1,5 +1,5 @@
 
-# Manifest
+# 4. Manifest
 
 The package manifest is a config that tells FreeCAD  
 about your addon, where to find specific resources,  
@@ -10,7 +10,7 @@ The more information you can specify, the better!
 
 <br/>
 
-## 1. Format
+## 📜 Format
 
 The manifest is unfortunately an XML file so be careful  
 with what you put where, you cannot for example move  
@@ -24,7 +24,7 @@ does not offer any autocompletion or type hinting.
 
 <br/>
 
-## 2. Fields
+## 📋 Fields
 
 To give you a first impression of what data is included,  
 here is a summary of the fields that are available for use.

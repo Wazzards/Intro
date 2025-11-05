@@ -10,7 +10,7 @@ Scared yet? Well if not, then let's start on your journey.
 
 <br/>
 
-## Audience
+## 🪖 Audience
 
 This guide is intent for people that want to get their  
 feet  wet after being told something that made them  
@@ -21,7 +21,7 @@ about the sunken cost fallacy before starting their project.
 
 <br/>
 
-## Journey
+## 🚆 Journey
 
 You are a free person, go along with the path set  
 forth or jump to whatever topic catches your eye.
@@ -35,15 +35,15 @@ broke any legs on the way - have a working addon.
 
 <br/>
 
-## Pages
+## 📖 Pages
 
 1. [What does an **Addon** even do?][Addon]
 
 1. [How to **Structure** your addon.][Structure]
 
-1. [How to set up the **Template**.][Template]
+1. [How to use the **Template** repo.][Template]
 
-1. [How to customize the **Manifest**.][Manifest]
+1. [How to fill in the **Manifest** file.][Manifest]
 
 <br/>
 

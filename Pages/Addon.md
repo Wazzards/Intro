@@ -1,17 +1,17 @@
 
-# Addon
+# 1. Addon
 
 What's an addon and why do I suddenly want to ~~waste~~  
 spend my time creating and **maintaining** it for eternity  
 or at least until I get bored of it?
 
-Well, they allow you to mess up FreeCAD in whatever way  
-you can imagine and type out into code or if you are of the  
-practical sort, help you improve your workflow's synergy.
+Well, they allow you to mess with FreeCAD in whatever way  
+you can imagine as long as you can code it or if you are of  
+the practical sort, help you improve your workflow's synergy.
 
 <br/>
 
-## 1. Possibilities
+## 🦀 Possibilities
 
 Here are few of the things you can do with addons.
 
@@ -49,7 +49,7 @@ Here are few of the things you can do with addons.
 
 <br/>
 
-## 2. Interface
+## 🧯 Interface
 
 You might wonder how they work and that is a great  
 question we will not cover here, at least not in detail.
@@ -66,7 +66,7 @@ it if that happens, but you will likely just work around it.
 
 <br/>
 
-## 3. Python
+## 🐍 Python
 
 If you choose the sane way of interfacing through Python  
 you will want to have typing support for FreeCAD's API.

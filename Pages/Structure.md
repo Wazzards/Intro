@@ -1,5 +1,5 @@
 
-# Structure
+# 2. Structure
 
 In the following we will cover a modern way of  
 structuring your addon, there are other ways  
@@ -11,7 +11,7 @@ worry about it yet, we will cover the setup later.
 
 <br/>
 
-## Overview
+## 📑 Overview
 
 We have structured our template to use the latest  
 features of FreeCAD while also keeping things tidy.
