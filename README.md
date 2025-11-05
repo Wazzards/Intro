@@ -16,12 +16,15 @@ you can skip to as you so please.
 
 ## Pages
 
-- How to [Structure] your addon.
+-   How to [Structure] your addon.
 
-- How to set up the [Template].
+-   How to set up the [Template].
+
+-   How to customize the [Manifest].
 
 <br/>
 
 [Structure]: ./Pages/Structure.md 
 [Template]: ./Pages/Template.md
+[Manifest]: ./Pages/Manifest.md
 
